@@ -46,6 +46,7 @@ echo -ne "
 -------------------------------------------------------------------------
                     Automated Arch Linux Installer
                      Fork of Archtitus Installer
+               Original Script of ChrisTitusTech/ArchTitus
 -------------------------------------------------------------------------
                 Done - Please Eject Install Media and Reboot
 "
